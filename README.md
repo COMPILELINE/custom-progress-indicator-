@@ -1,3 +1,3 @@
 # custom-progress-indicator
 
-[](./thumbnail.png)
+![](./thumbnail.png)
