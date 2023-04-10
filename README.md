@@ -1,1 +1,3 @@
-# custom-progress-indicator-
+# custom-progress-indicator
+
+[](./thumbnail.png)
